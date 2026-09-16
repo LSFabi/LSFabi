@@ -10,12 +10,9 @@ Meu foco é desenvolver soluções através da tecnologia, transformando ideias 
 
 ---
 
-## 📊 Git Status
+## 📊 GitHub Status
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LSFabi&show_icons=true&hide_border=true&theme=github_dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSFabi&layout=compact&hide_border=true&theme=github_dark" height="170" />
-</p>
+<!-- Nova solução de estatísticas aqui -->
 
 ---
 
