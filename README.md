@@ -1,22 +1,17 @@
-# Leonardo Silva Fabiano
+# Olá, sou o Leonardo 👋
 
-### Desenvolvedor de Software | Estudante de Sistemas de Informação
+### Estudante de Sistemas de Informação | Desenvolvedor Back-end
 
-Bem-vindo ao meu perfil! 👋
-
-Sou **Leonardo Silva Fabiano**, estudante de **Sistemas de Informação** no **Centro Universitário Antônio Eufrásio de Toledo de Presidente Prudente**.
-
-Tenho interesse em desenvolvimento de software e busco transformar problemas e ideias em soluções práticas através da tecnologia.
+Estudo **Sistemas de Informação** no **Centro Universitário Antônio Eufrásio de Toledo de Presidente Prudente** e gosto de transformar problemas e ideias em soluções práticas com tecnologia.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação**
-- 💻 Foco em **desenvolvimento de software**
-- 🔧 Interesse principalmente em **Back-end**
-- 📚 Buscando constantemente aprimorar meus conhecimentos
-- 🚀 Desenvolvendo projetos para evolução profissional e acadêmica
+- 🎓 Graduando em **Sistemas de Informação**
+- 🔧 Foco em desenvolvimento **Back-end** e APIs REST
+- 💻 Construindo projetos práticos para evoluir na área
+- 📚 Sempre estudando novas tecnologias e boas práticas
 
 ---
 
@@ -33,6 +28,7 @@ Tenho interesse em desenvolvimento de software e busco transformar problemas e i
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### Ferramentas
 
@@ -43,52 +39,40 @@ Tenho interesse em desenvolvimento de software e busco transformar problemas e i
 
 ---
 
-## 📊 GitHub Status
+## 📊 Estatísticas
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" height="170" alt="Estatísticas do GitHub" />
   <img src="./profile/top-langs.svg" height="170" alt="Linguagens mais utilizadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LSFabi&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LSFabi&theme=github-dark&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
 ---
 
 ## 💼 Projetos
 
-### 🛍️ CADOficina
+### 🛍️ [CADOficina](https://github.com/LSFabi/CADOficina)
 
-Sistema desenvolvido para gerenciamento de uma loja de roupas e cosméticos.
-
-Principais recursos:
+Sistema de gestão para uma loja de roupas e cosméticos, com API em **Laravel** e **MySQL**.
 
 - Controle de produtos e estoque
 - Cadastro de clientes
-- Vendas e pagamentos
+- Vendas, pagamentos e vendas condicionais
 - Controle financeiro
-- Condicionais
 - Relatórios
-- API desenvolvida com **Laravel e MySQL**
 
-### 🎓 API Escolar
+### 🎓 [API Escolar](https://github.com/LSFabi/api-escolar)
 
-API REST desenvolvida para gerenciamento de informações acadêmicas.
-
-Principais tecnologias:
-
-- **Java**
-- **Spring Boot**
-- **MySQL**
-- **Swagger**
-- API REST
+API REST para gerenciamento de informações acadêmicas, desenvolvida com **Java**, **Spring Boot** e **MySQL**, com documentação via **Swagger**.
 
 ---
 
 ## 🎯 Objetivo
 
-Busco evoluir profissionalmente na área de desenvolvimento de software, principalmente no desenvolvimento **Back-end**, aprimorando meus conhecimentos através de projetos práticos e novas tecnologias.
+Crescer profissionalmente como desenvolvedor **Back-end**, aprofundando meus conhecimentos por meio de projetos práticos e novas tecnologias.
 
 ---
 
