@@ -28,8 +28,6 @@ Estudo **Sistemas de Informação** no **Centro Universitário Antônio Eufrási
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
 ### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,10 +61,6 @@ Sistema de gestão para uma loja de roupas e cosméticos, com API em **Laravel**
 - Vendas, pagamentos e vendas condicionais
 - Controle financeiro
 - Relatórios
-
-### 🎓 [API Escolar](https://github.com/LSFabi/api-escolar)
-
-API REST para gerenciamento de informações acadêmicas, desenvolvida com **Java**, **Spring Boot** e **MySQL**, com documentação via **Swagger**.
 
 ---
 
